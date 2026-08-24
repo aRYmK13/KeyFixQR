@@ -1,0 +1,8 @@
+bin/
+obj/
+dist/publish/
+dist/portable-stage/
+*.user
+.vs/
+dist/*.exe
+dist/*.zip
